@@ -3,10 +3,10 @@ requires = ["setuptools>=67.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name        = "pyinsteon"
+name        = "pyinsteon-hubs"
 version     = "1.6.4"
 license     = {text = "MIT License"}
-description = "Open-source Insteon home automation module running on Python 3."
+description = "Open-source Insteon Multiple Hubs home automation module running on Python 3."
 readme      = "DESCRIPTION.rst"
 authors     = [
     {name = "The pyinsteon authors", email = "pyinsteon@harrisnj.net"}
