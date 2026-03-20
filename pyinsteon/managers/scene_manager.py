@@ -17,7 +17,7 @@ from ..handlers.send_all_link_on import SendAllLinkOnCommandHandler
 from ..utils import multiple_status
 from .device_link_manager import LinkInfo
 
-SCENE_FILE = "insteon_scenes.json"
+SCENE_FILE = "insteon_hubs_scenes.json"
 _LOGGER = logging.getLogger(__name__)
 ControllerAddress = Address
 ResponderAddress = Address

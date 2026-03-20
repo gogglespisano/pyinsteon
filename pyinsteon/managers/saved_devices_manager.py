@@ -15,7 +15,7 @@ from ..x10_address import X10Address
 from .device_id_manager import DeviceId
 from .utils import create_device
 
-DEVICE_INFO_FILE = "insteon_devices.json"
+DEVICE_INFO_FILE = "insteon_hubs_devices.json"
 OLD_DEVICE_INFO_FILE = "insteon_plm_device_info.dat"
 _LOGGER = logging.getLogger(__name__)
 

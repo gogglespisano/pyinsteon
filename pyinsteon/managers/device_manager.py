@@ -23,7 +23,7 @@ from .link_manager import (
 )
 from .utils import create_device, create_x10_device
 
-DEVICE_INFO_FILE = "insteon_devices.json"
+DEVICE_INFO_FILE = "insteon_hubs_devices.json"
 _LOGGER = logging.getLogger(__name__)
 _DEVICE_LOGGERS = []
 
